@@ -13,10 +13,7 @@ body {
   font-family: 'Press Start 2P', sans-serif;
   color: #eee;
   background-color: #222;
-  /* background-color: #60b347; */
 }
-
-/* LAYOUT */
 header {
   position: relative;
   height: 35vh;
@@ -42,8 +39,6 @@ main {
   width: 52rem;
   font-size: 2rem;
 }
-
-/* ELEMENTS STYLE */
 h1 {
   font-size: 4rem;
   text-align: center;
